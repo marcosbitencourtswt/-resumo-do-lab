@@ -18,6 +18,7 @@ Durante o desenvolvimento do lab na DIO, revisei e consolidei alguns conceitos i
   - User
   - Blob
   - E do naaaaaaada um desafio de codigo em Java hahahaha
+  - Entendido o porque do Java, era pra explicar a metodologia de desafios, desafio azure feito e pass! 
 
 ---
 
